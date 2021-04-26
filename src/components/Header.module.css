@@ -1,0 +1,23 @@
+.header {
+  text-transform: uppercase;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: blueviolet;
+  color: white;
+  padding: 1rem;
+}
+
+
+ul {
+  flex: 1;
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+
+}
+
+ul a{
+  text-decoration: none;
+  color: white;
+}

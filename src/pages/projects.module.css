@@ -1,0 +1,19 @@
+.projects{   
+   
+    text-align: center;
+    display: flex !important;
+    justify-content: space-evenly;
+   flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+ 
+}
+
+.project_card{   
+   
+    width: 300px;
+    height: 200px;
+
+  
+}

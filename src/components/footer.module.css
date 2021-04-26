@@ -1,0 +1,9 @@
+.Pagefooter{
+    position: absolute;
+    bottom: 0;
+    padding: 1rem 2rem;
+    background-color: rgb(51, 50, 50);
+    width: 100%;
+    color: white;
+    text-align: center;
+}
