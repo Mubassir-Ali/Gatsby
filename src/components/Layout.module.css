@@ -3,6 +3,12 @@
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    /* background-color: rgb(160, 129, 189); */
-    height: 80vh;
+    overflow: scroll;
+    padding-top: 6rem;
+    
+ 
+}
+
+.container::-webkit-scrollbar{
+    display: none;
 }
